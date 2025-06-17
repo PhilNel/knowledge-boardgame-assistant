@@ -1,0 +1,25 @@
+{
+  "name": "board-game-rules-knowledge",
+  "version": "1.0.0",
+  "description": "Community-driven board game rules knowledge base",
+  "scripts": {
+    "validate": "node tools/validate.js",
+    "lint": "markdownlint games/**/*.md",
+    "format": "prettier --write games/**/*.md"
+  },
+  "keywords": [
+    "board-games",
+    "rules",
+    "knowledge-base",
+    "ai-assistant"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "markdownlint-cli": "^0.37.0",
+    "prettier": "^3.0.0"
+  },
+  "dependencies": {
+    "fs-extra": "^11.0.0",
+    "glob": "^10.0.0"
+  }
+} 
