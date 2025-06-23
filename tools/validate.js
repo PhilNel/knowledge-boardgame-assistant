@@ -4,6 +4,15 @@ const fs = require('fs-extra');
 const path = require('path');
 const { glob } = require('glob');
 
+// Configuration for RAG optimization
+const MIN_CHUNK_TOKENS = 100; // minimum tokens per chunk
+const MAX_CHUNK_TOKENS = 500; // maximum tokens per chunk
+
+// Rough token estimation: ~4 characters per token for English
+function estimateTokens(text) {
+  return Math.ceil(text.length / 4);
+}
+
 async function validateGame(gameDir) {
   const gameName = path.basename(gameDir);
   console.log(`\n🎲 Validating ${gameName}...`);
@@ -11,13 +20,6 @@ async function validateGame(gameDir) {
   let errors = [];
   let warnings = [];
   
-  // Check if README.md exists
-  const readmePath = path.join(gameDir, 'README.md');
-  if (!await fs.pathExists(readmePath)) {
-    errors.push('Missing README.md file');
-  }
-  
-  // Get all markdown files in the game directory
   const mdFiles = await glob('**/*.md', { cwd: gameDir });
   
   if (mdFiles.length === 0) {
@@ -25,39 +27,31 @@ async function validateGame(gameDir) {
     return { errors, warnings };
   }
   
-  // Check each markdown file
   for (const file of mdFiles) {
     const filePath = path.join(gameDir, file);
     const content = await fs.readFile(filePath, 'utf8');
-    
-    // Basic checks
-    if (content.trim().length === 0) {
+  
+    const isEmpty = content.trim().length === 0;
+    if (isEmpty) {
       warnings.push(`${file} is empty`);
       continue;
     }
     
-    // Check for main heading
-    if (!content.match(/^# .+/m)) {
+    const mainHeadingMissing = !content.match(/^# .+/m);
+    if (mainHeadingMissing) {
       warnings.push(`${file} missing main heading (# Title)`);
     }
     
-    // Check for source attribution (optional but recommended)
-    if (!content.includes('**Source**') && !content.includes('> **Source**')) {
-      warnings.push(`${file} missing source attribution`);
+    const fileTokens = estimateTokens(content);
+    
+    const isTooLarge = fileTokens > MAX_CHUNK_TOKENS;
+    if (isTooLarge) {
+      errors.push(`${file} is ~${fileTokens} tokens (should be ≤${MAX_CHUNK_TOKENS}). Consider splitting into separate files.`);
     }
     
-    // Check for basic markdown structure
-    const lines = content.split('\n');
-    let hasContent = false;
-    for (const line of lines) {
-      if (line.trim() && !line.startsWith('#')) {
-        hasContent = true;
-        break;
-      }
-    }
-    
-    if (!hasContent) {
-      warnings.push(`${file} appears to only have headings`);
+    const isTooSmall = fileTokens < MIN_CHUNK_TOKENS && content.trim().length > 100;
+    if (isTooSmall) {
+      warnings.push(`${file} is ~${fileTokens} tokens (should be ≥${MIN_CHUNK_TOKENS}). Consider combining with related content.`);
     }
   }
   
@@ -65,8 +59,9 @@ async function validateGame(gameDir) {
 }
 
 async function main() {
-  console.log('🔍 Board Game Rules Validator');
-  console.log('============================');
+  console.log('🔍 Board Game Rules Validator (RAG Optimized)');
+  console.log('===============================================');
+  console.log(`📏 Chunk size: ${MIN_CHUNK_TOKENS}-${MAX_CHUNK_TOKENS} tokens`);
   
   const gamesDir = path.join(__dirname, '..', 'games');
   
@@ -122,6 +117,11 @@ async function main() {
   
   if (totalErrors > 0) {
     console.log('\n❌ Validation failed! Please fix the errors above.');
+    console.log('\n💡 RAG Optimization Tips:');
+    console.log('   • Split large files into focused, single-topic files');
+    console.log(`   • Keep each file between ${MIN_CHUNK_TOKENS}-${MAX_CHUNK_TOKENS} tokens (~${MIN_CHUNK_TOKENS*4}-${MAX_CHUNK_TOKENS*4} characters)`);
+    console.log('   • Use descriptive filenames that match common questions');
+    console.log('   • Each file should cover one specific rule or concept');
     process.exit(1);
   } else {
     console.log('\n✅ Validation passed!');
