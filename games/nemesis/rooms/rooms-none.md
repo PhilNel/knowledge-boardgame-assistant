@@ -1,10 +1,15 @@
 # Rooms - No Color Background
 
+Category: Rooms - No Color
+Related Systems: Slime, Noise, Intruders, Heavy Objects, Malfunction, Fire
+
 Rooms with no colored background on their action area.
 
 **Important:** A Malfunction marker can never be placed in the Nest or in the Room Covered In Slime.
 
 ## Nest
+
+Basic Room "1"
 
 This room is always on the board.
 
@@ -15,4 +20,6 @@ This room is always on the board.
 
 ## Room Covered with Slime
 
-Upon entering this room, a character automatically receives a Slime marker. Searching is not allowed in this room. 
+Additional Room "2"
+
+Upon entering this room, a character automatically receives a Slime marker. Searching is not allowed in this room.

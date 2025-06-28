@@ -5,8 +5,8 @@ const path = require('path');
 const { glob } = require('glob');
 
 // Configuration for RAG optimization
-const MIN_CHUNK_TOKENS = 100; // minimum tokens per chunk
-const MAX_CHUNK_TOKENS = 500; // maximum tokens per chunk
+const MIN_CHUNK_TOKENS = 150; // minimum tokens per chunk
+const MAX_CHUNK_TOKENS = 800; // maximum tokens per chunk
 
 // Rough token estimation: ~4 characters per token for English
 function estimateTokens(text) {

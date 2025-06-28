@@ -1,4 +1,7 @@
-# Nemesis Item Decks
+# Items
+
+Category: Objects and Items - Items
+Related Systems: Items, Searching, Crafting, Quest Items, Inventory, Item Decks, Combat
 
 There are three item decks in Nemesis: Yellow (Technical), Red (Military), and Green (Medical). Each deck contains different types of items with specific quantities.
 

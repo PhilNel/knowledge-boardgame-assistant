@@ -1,5 +1,8 @@
 # Room Types and Ship Layout
 
+Category: Rooms - Room Types and Ship Layout
+Related Systems: Hibernatorium, Coordinates, Cockpit, Search, Malfunction, Fire, Rooms
+
 ## Basic Rooms "1" (Always Present)
 All 11 of these rooms are included in every game:
 
@@ -32,5 +35,5 @@ Only some of these rooms appear in each game, creating different ship layouts:
 - Each game uses all 11 Basic Rooms "1"
 - Only 5 out of 9 Additional Rooms "2" are randomly selected each game
 - Room selection creates different ship layouts and strategic options
-- Special Rooms (Hibernatorium, Cockpit, Engines) are always present
+- Special Rooms (Hibernatorium, Cockpit, Engines) are always present and in the same place
 - Additional Rooms provide specialized functions not available in Basic Rooms
