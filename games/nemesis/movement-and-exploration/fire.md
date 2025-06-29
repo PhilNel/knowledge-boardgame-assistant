@@ -8,19 +8,19 @@ Fire markers represent hazardous fires throughout the ship. There are 8 Fire mar
 ## Effects on Characters
 
 Every time a Character ends their round (**each round!**) in a Room with a Fire marker, this Character suffers 1 Light Wound.
-Remember that 1 round is 2 Actions of 1 Character (or 1 Action and pass, or simply pass).
 
+**Note**: Remember that 1 round is 2 Actions of 1 Character (or 1 Action and pass, or simply pass).
 **Important**: Characters suffer Wounds from Fire only after they finished their round. If the Character passes, they suffer 1 Light Wound from Fire at the end of their round, but they won't suffer any more Wounds from Fire this turn, even if other Characters play their round after them.
 
 ## Effects on Intruders
 
 During the Event Phase, specifically the "Fire Damage" step, every Intruder present in a Room with a Fire marker suffers 1 Injury.
 
-**Egg Destruction**: If a Fire marker is in a Room containing uncarried Intruder Eggs, 1 uncarried Egg is destroyed during the Fire Damage step.
+**Egg Destruction**: If a Fire marker is in a Room containing uncarried Intruder Eggs , 1 uncarried Egg is destroyed during the Fire Damage step. Eggs are considered uncarried if they are in the nest or on the ground.
 
 ## Ship Explosion
 
-If you are instructed to place a Fire marker and there are no more markers in the pool (all 8 are in use), the ship explodes and the game ends. This means all Characters on board (awake or hibernated) and all Intruders die.
+If you are instructed to place a Fire marker and there are no more markers in the pool (all 8 are in use), the ship explodes and the game ends. This means all Characters on the board (awake or hibernated) and all Intruders die.
 
 ## How Fire Markers Are Placed
 

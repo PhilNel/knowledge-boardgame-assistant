@@ -15,10 +15,9 @@ As long as the Character has a Slime marker on their Character board, each "Sile
 
 Characters can gain Slime markers through several methods:
 
-- **Room covered with slime**: Automatically receive a Slime marker upon entering
+- **Room Covered with Slime**: Automatically receive a Slime marker upon entering this particular room
 - **Intruder attacks**: Some Intruder Attack cards can inflict Slime markers
-- **Exploration tokens**: "SLIME" exploration tokens place a Slime marker on your Character board
-- **Other game effects**: Various cards and events may also cause Slime markers
+- **Exploration tokens**: Slime exploration tokens place a Slime marker on your Character board
 
 ## Limitations
 
@@ -34,7 +33,7 @@ Characters can remove Slime markers through:
 ## Examples
 
 - If you roll for Noise and get "Silence" while having a Slime marker, treat it as "Danger" instead
-- The "Room covered with slime" automatically gives you a Slime marker when you enter
+- The "Room covered with Slime" automatically gives you a Slime marker when you enter
 
 ## Related Rules
 
