@@ -15,7 +15,7 @@ All normal Items **may be kept secret** from the other players – put them in y
 
 **Heavy Objects** are not cards but tokens that can be carried. These include:
 
-- **Intruder Eggs**: They are most often found in the Nest Room
+- **Intruder Eggs**: They are found in the Nest Room.
 - **Character Corpse**: This is the Character Corpse token, representing either a dead Character or the body found in the Hibernatorium at the start of the game.
 - **Intruder Carcass**: A Carcass token is placed after the death of any Intruder – with the exception of Larvae.
 

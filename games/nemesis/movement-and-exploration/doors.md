@@ -1,5 +1,8 @@
 # Doors
 
+Category: Movement and Exploration - Doors
+Related Systems: Movement, Intruders, Rooms, Corridors, Actions, Items
+
 In Nemesis, Doors represent barriers that regulate movement between Rooms on the ship. They are represented by Door tokens and are placed specifically within Corridors that connect Rooms.
 
 ## Door States

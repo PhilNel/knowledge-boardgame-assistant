@@ -1,7 +1,7 @@
 # Technical Items (Yellow Deck)
 
 Category: Objects and Items - Technical Items (Yellow Deck)
-Related Systems: Searching, Crafting, Inventory, Combat, Heavy Items, Technical Corridor, Movement
+Related Systems: Searching, Crafting, Inventory, Combat, Heavy Items, Technical Corridor, Movement, Slime
 
 The Technical Item Deck is one of the four categories of Item Decks in Nemesis, primarily focused on tools and equipment for ship maintenance, repairs, and specific movement abilities.
 

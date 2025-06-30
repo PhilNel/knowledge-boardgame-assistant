@@ -1,9 +1,14 @@
 # Medical Items (Green Deck)
 
+Category: Objects and Items -  Medical Items (Green Deck)
+Related Systems: Searching, Crafting, Inventory, Wounds, Contamination, Actions, Slime
+
+The Medical Item Deck, also known as the Green Item Deck, is one of the four distinct categories of Item Decks in Nemesis. These items are primarily focused on healing and Action card management.
+
 **Total Cards: 30**
 
 - **Medikit**: 7 cards
-  - Dress 1 Serious Wound 
+  - Dress 1 Serious Wound
   - OR Heal 1 Dressed Serious Wound
 - **Bandages**: 7 cards
   - Dress 1 Serious Wound

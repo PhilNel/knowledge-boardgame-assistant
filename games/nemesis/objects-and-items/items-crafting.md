@@ -1,7 +1,7 @@
 # Crafting
 
 Category: Objects and Items - Crafting
-Related Systems: Searching, Inventory, Combat, Heavy Objects, Basic Actions, Contamination
+Related Systems: Searching, Inventory, Combat, Heavy Objects, Basic Actions, Contamination, Flamethrower
 
 The fourth (Blue) deck of Item cards contains Crafted Items. These Items **cannot be found by searching** the Rooms. They can be assembled with a **Craft Item Basic Action**, using other Items in your possession.
 
@@ -45,7 +45,7 @@ You can build four different Crafted Items during the game:
   - You always deal at least 1 Injury, except on a blank. If the Combat roll result is two "crosshairs", place a Fire marker in the Room you are in.
   - This is a Heavy Item.
   - Requires one Chemical and one Tool Component to craft.
-  - **Note**: This weapon is reloaded with Chemical and NOT Energy Charges.
+  - **Note**: The Flamethrower is reloaded with the Chemicals Item and NOT Energy Charges.
 - **Molotov Cocktail**: 3 cards
   - Choose 1 Room with an Intruder (the one you are in or neighboring). Place a Fire marker in that Room. Characters and Intruders in that Room suffer 1 Injury / Serious Wound.
   - Requires one Chemical and one Cloth Component to craft.
