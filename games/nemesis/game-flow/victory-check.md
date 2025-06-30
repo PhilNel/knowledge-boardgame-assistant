@@ -1,5 +1,8 @@
 # Victory Check
 
+Category: Game Flow - End of Game
+Related Systems: Objectives, Hibernatorium, Escape Pods, Coordinates, Cockpit, Self Destruct
+
 If at least one Character has survived (either hibernating or having evacuated via an Escape Pod) when the game ends, a Victory Check is performed:
 
 ## Engines Check

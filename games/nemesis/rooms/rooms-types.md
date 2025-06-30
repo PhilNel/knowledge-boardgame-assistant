@@ -21,7 +21,7 @@ All 11 of these rooms are included in every game:
 ## Additional Rooms "2" (Variable)
 Only some of these rooms appear in each game, creating different ship layouts:
 
-- **Airlock Control** - Emergency room clearing procedures
+- **Airlock Control** - "Emergency Airlock procedure"
 - **Cabins** - Extra action card benefit when resting
 - **Canteen** - Light wound healing and contamination scanning
 - **Command Center** - Door control for any room

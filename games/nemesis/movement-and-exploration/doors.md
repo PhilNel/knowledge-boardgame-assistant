@@ -24,7 +24,7 @@ Door tokens can be placed in a Corridor due to Exploration tokens being revealed
 - **Events**: Door status can be changed by certain Event.
 - **Items**: The Energy Charge, Tools and Plasma Torch (Mechanic Only) Items allows for opening or closing a door.
 - **Command Center**: The Room Action allows a Character to choose any Room and Close or Open any Doors in its connected Corridors.
-- **Airlock Control**: The Room Action automatically closes doors in connected corridors of a chosen Yellow Room as part of an emergency procedure.
+- **Airlock Control**: The Room Action automatically closes doors in connected corridors of a chosen Yellow Room as part of an "Emergency Airlock procedure".
 - **Intruder Movement**: When an Intruder tries to move through a Corridor with a Closed Door token, the Intruder does not move, but destroys the Door instead. If multiple Intruders move simultaneously from the same Room through a Closed Door, they all destroy the Door and remain in their starting Room.
 
 ## Interactions with Other Game Mechanics

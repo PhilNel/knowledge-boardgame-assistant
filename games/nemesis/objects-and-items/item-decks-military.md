@@ -19,8 +19,9 @@ The Military Item Deck, also known as the Red Item Deck, is one of the four dist
 - **Decoy**: 2 cards
   - Choose 1 neighboring Room. Take all Intruders from neighboring Rooms (even in Combat) and move them to this Room (normal rules of Movement apply). Each Intruder in Combat performs 1 Attack before leaving its Room.
 - **Self-Destruct Key**: 1 card
-  - If you are in a Room with a Computer, initiate or stop the Self-Destruct sequence.
+  - If you are in **ANY** Room with a Computer, initiate or stop the Self-Destruct sequence.
   - **Note**: This is useless if the Self-Destruct marker is at any yellow space.
+  - **Important**: The Character does not need to be in the Generator Room to use this key to initiate or stop the Self-Destruct sequence.
 - **Evacuation Key**: 1 card
   - If you are in an Evacuation Section Room, Lock or Unlock 1 of the Escape Pods in this Evacuation Section.
 - **Comms Key**: 1 card
