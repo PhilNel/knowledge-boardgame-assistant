@@ -1,7 +1,7 @@
 # Fire Marker
 
 Category: Movement and Exploration - Fire
-Related Systems: Intruder Injuries, Player Phase, End of Game, Rooms Grey, Items Yellow
+Related Systems: Intruders, Player Phase, End of Game, Rooms Grey
 
 Fire markers represent hazardous fires throughout the ship. There are 8 Fire markers available in the game.
 
@@ -28,19 +28,19 @@ Fire markers can appear through:
 
 - **Exploration tokens**: "Fire" exploration tokens place Fire markers when rooms are first entered
 - **Event cards**: Some events cause fire to spread to neighboring rooms or create malfunctions in already-burning rooms
-- **Other game effects**: Various cards and events may also place Fire markers
-
-**Note:** Some Event cards may cause the Fire to spread to neighboring Rooms or cause Malfunctions in Rooms already on fire, so be careful!
+- **Flamethrower**: During combat this Weapon may place Fire markers in the Room the Combat is taking place in.
+- **Molotov Cocktail**: This Crafted Item can be used to place Fire markers in Rooms with Intruders in them.
+- **Events:** Some Event cards may cause the Fire to spread to neighboring Rooms or cause Malfunctions in Rooms already on fire, so be careful!
 
 ## Removal of Fire Markers
 
-- **Fire Control System Room Action**: A Character in the Fire Control System Room can perform an action to choose any one Room and discard a Fire marker from it if one is present. This action can also be used to make Intruders flee, regardless of fire presence.
+- **Fire Control System Room Action**: The Room Action allows a Character to choose any one Room and discard a Fire marker from it if one is present. This action can also be used to make Intruders flee, regardless of fire presence.
 - **Airlock Control Room Action**: If the "Emergency Airlock procedure" is successfully initiated and completed in a Yellow Room (all connected Doors are Closed at the end of the Player Phase), everything in that Room dies, and any Fire marker present is removed.
-- **Fire Extinguisher**: This heavy item from the Technical Items (Yellow Deck) can be used to discard a Fire marker from your current room.
+- **Fire Extinguisher**: This Heavy Item from the Technical Items (Yellow Deck) can be used to discard a Fire marker from your current room.
 
 ## Specific Rules
 
 - Any given Room may never hold more than 1 Fire marker. If you are instructed to place another one, nothing happens.
 - Discarded Fire markers are returned to the Fire marker pool for later use.
 - The presence of a Fire marker in a Room does not prevent Characters from using Room Actions or performing Search Actions in that Room.
-- The "Take a Shower" action in the Shower Room does not remove a Fire marker from that room, it only removes a Slime marker.
+- The Shower Room ACtion does not remove a Fire marker from that room, it only removes a Slime marker.
