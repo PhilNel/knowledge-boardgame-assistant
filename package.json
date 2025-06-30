@@ -4,6 +4,8 @@
   "description": "Community-driven board game rules knowledge base",
   "scripts": {
     "validate": "node tools/validate.js",
+    "sync": "node tools/sync-s3.js",
+    "sync:dry-run": "node tools/sync-s3.js --dry-run",
     "lint": "markdownlint games/**/*.md",
     "format": "prettier --write games/**/*.md"
   },
