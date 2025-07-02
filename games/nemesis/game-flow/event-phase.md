@@ -1,4 +1,7 @@
-# Event Phase [1, p.10]
+# Event Phase
+
+Category: Game Flow - Event Phase
+Related Systems: Fire, Intruders, Events
 
 The game progresses through a series of consecutive **turns** and ends when any of the end game conditions are met. Each turn is split into two consecutive **Phases**: the Player Phase and the Event Phase.
 
