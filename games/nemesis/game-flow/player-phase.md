@@ -1,4 +1,8 @@
-# Player Phase [1, p.10]
+# Player Phase
+
+Category: Game Flow - Player Phase
+Related Systems: Actions, Passing
+
 The game progresses through a series of consecutive **turns** and ends when any of the end game conditions are met. Each turn is split into two consecutive **Phases**: the Player Phase and the Event Phase.
 
 The Player Phase is where characters perform their actions. It consists of the following steps:
@@ -10,7 +14,7 @@ The Player Phase is where characters perform their actions. It consists of the f
 
 When each player has performed their round of 2 Actions (or passed their round), the next series of rounds takes place. Each player in order performs 2 Actions (or passes) – this takes place as long as there is at least one player who has not passed. When all players have passed, move to the Event Phase.
 
-### Passing [1, p.10]
+### Passing
 
 - If a player cannot perform any Actions, or chooses to take no Actions in their round, they must pass.
 - If a player performs only 1 Action instead of the required two, they must pass.
