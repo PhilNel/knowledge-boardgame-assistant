@@ -1,6 +1,6 @@
 # Event Cards
 
-Category: Game Flow - Event Cards
+Category: Events - Event Cards
 Related Systems: Intruders, Movement, Combat, Doors
 
 Events in Nemesis are a crucial element of the game's flow, driving Intruder actions and creating dynamic, often dangerous, situations on the ship. They are resolved during the Event Phase of each game turn.

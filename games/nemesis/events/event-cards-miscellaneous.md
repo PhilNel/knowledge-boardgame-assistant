@@ -1,6 +1,6 @@
 # Event Cards - Miscellaneous
 
-Category: Game Flow - Event Cards Miscellaneous
+Category: Events - Event Cards Miscellaneous
 Related Systems: Event Phase, Noise, Doors, Escape Pods, Slime
 
 **Total Cards: 20**

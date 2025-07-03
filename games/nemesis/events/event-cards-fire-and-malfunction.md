@@ -1,6 +1,6 @@
 # Event Cards - Fire and Malfunction
 
-Category: Game Flow - Event Cards Fire and Malfunction
+Category: Events - Event Cards Fire and Malfunction
 Related Systems: Event Phase, Fire, Hibernatorium, Malfunction, Self-Destruct, Generator Room
 
 **Total Cards: 20**

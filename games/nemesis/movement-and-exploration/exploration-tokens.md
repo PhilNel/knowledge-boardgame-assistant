@@ -8,7 +8,7 @@ Exploration tokens are a key element of revealing the ship's layout and immediat
 ## When They Are Revealed
 
 When a Character performs a Movement Action and enters an unexplored Room (face-down Room tile and Exploration token), the Room tile is turned face-up first.
-**Immediately after**, the Exploration Token lying on that Room tile is revealed (turned **face-up**)
+**Immediately after**, the Exploration Token lying on that Room tile is revealed (turned **face-up**).
 
 **Important**: Exploration tokens are only resolved once, when the unexplored Room is entered for the first time.
 

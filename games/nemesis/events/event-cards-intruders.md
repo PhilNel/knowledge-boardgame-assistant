@@ -1,6 +1,6 @@
 # Event Cards - Intruders
 
-Category: Game Flow - Event Cards Intruders
+Category: Events - Event Cards Intruders
 Related Systems: Event Phase, Intruders, Encounters, Intruder Eggs
 
 **Total Cards: 20**
