@@ -1,6 +1,6 @@
-# Actions
+# Actions Overview
 
-Category: Core Mechanics - Actions
+Category: Actions - Overview
 Related Systems: Movement, Combat, Contamination, Basic Actions, Player Phase
 
 Actions are the primary way characters interact with the game world. Players have a total of 2 Actions per round during the **Player Phase**.

@@ -1,6 +1,6 @@
 # Objectives
 
-Category: Core Mechanics - Objectives
+Category: Objectives - Objectives
 Related Systems: Items, Heavy Objects, Actions, Victory, Hibernatorium, Cockpit, Coordinates, Escape Pod, Intruders
 
 Objectives in Nemesis are central to determining a player's victory, operating as hidden goals that must be fulfilled alongside survival. The game is semi-cooperative, meaning while players might cooperate, each has their own agenda, and another player achieving their goal is irrelevant to your own victory.
