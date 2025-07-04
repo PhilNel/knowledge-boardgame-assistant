@@ -1,7 +1,7 @@
 # Personal Objectives
 
-Category: Core Mechanics - Personal Objectives
-Related Systems: Objectives, Cockpit, Coordinates, Heavy Objects, rooms
+Category: Objectives - Personal Objectives
+Related Systems: Objectives, Cockpit, Coordinates, Heavy Objects, Rooms
 
 This section details the contents of the Personal Objective cards and provides some insight into these Objectives.
 

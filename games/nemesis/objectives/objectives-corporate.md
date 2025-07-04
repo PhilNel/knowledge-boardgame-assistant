@@ -1,7 +1,7 @@
 # Corporate Objectives
 
-Category: Core Mechanics - Corporate Objectives
-Related Systems: Objectives
+Category: Objectives - Corporate Objectives
+Related Systems: Objectives, Heavy Objects, Rooms
 
 This section details the contents of the Corporate Objective cards and provides some insight into these Objectives.
 

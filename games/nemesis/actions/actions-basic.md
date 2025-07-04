@@ -1,6 +1,6 @@
 # Basic Actions
 
-Category: Core Mechanics - Basic Actions
+Category: Actions - Basic Actions
 Related Systems: Movement, Combat, Player Phase, Crafting, Heavy Objects
 
 Each Character has the same set of Basic Actions. These Actions are always available for each Character, as long as they meet their conditions.
