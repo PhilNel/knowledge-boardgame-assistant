@@ -1,7 +1,7 @@
 # Intruder Injuries and Death
 
 Category: Intruders - Injuries and Death
-Related Systems: Combat, fire
+Related Systems: Combat, Fire
 
 In Nemesis, Intruder Injuries and Death are determined through a specific process involving Injury markers, Intruder Attack cards, and the Combat die.
 
