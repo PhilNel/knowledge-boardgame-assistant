@@ -21,7 +21,7 @@ Offers a passive benefit to Catch a breath; if a character starts a new turn in 
 
 Additional Room "2"
 
-Provides the ability to Lock/Unlock 1 Escape Pod.
+Flip 1 Escape Pod token to its Locked or Unlocked side.
 
 ## Shower Room
 
