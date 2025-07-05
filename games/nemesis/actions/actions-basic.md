@@ -27,3 +27,5 @@ A detailed description of Basic Actions is given below.
   - **Note**: Characters cannot exchange Ammo.
 - **Craft Item**: Discard 2 Item cards showing the appropriate blue Craft icons to gain a Crafted Item card with the same Craft icons (but in gray color) as the Items you have discarded. Costs 1 Action card.
   - **Note**: A Crafted Item cannot be built if its card is not available, even if you have the required blue components.
+- **Quest Item Activation**: This is a Basic action with the cost printed on the Quest item cards.
+  - **Note**: It cannot be used when in Combat.
