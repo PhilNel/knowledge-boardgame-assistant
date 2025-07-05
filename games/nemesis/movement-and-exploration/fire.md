@@ -37,6 +37,7 @@ Fire markers can appear through:
 - **Fire Control System Room Action**: The Room Action allows a Character to choose any one Room and discard a Fire marker from it if one is present. This action can also be used to make Intruders flee, regardless of fire presence.
 - **Airlock Control Room Action**: If the "Emergency Airlock procedure" is successfully initiated and completed in a Yellow Room (all connected Doors are Closed at the end of the Player Phase), everything in that Room dies, and any Fire marker present is removed.
 - **Fire Extinguisher**: This Heavy Item from the Technical Items (Yellow Deck) can be used to discard a Fire marker from your current room.
+- **Mechanic's Pyrotechnics Action card**: This action can be used to discard a Fire marker from the Room you are in.
 
 ## Specific Rules
 
