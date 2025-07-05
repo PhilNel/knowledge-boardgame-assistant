@@ -7,14 +7,14 @@ If a Character does not scan their Contamination cards before the game ends, the
 
 ## Scanning Procedure
 
-- Take the Scanner and place its red foil part over the coded field of the Contamination card you’re Scanning
+- Take the Scanner and place its red foil part over the coded field of the Contamination card you're Scanning
 - In one of the lines of text, the word "INFECTED" may appear. If not, the card is **not infected**.
 - **Note**: It's important to look closely, as some coded words might appear similar to "INFECTED".
 - In both of these cases, any **additional Scanning effect** is explained in the description of the given Action card, Room Action or Item Action.
 
 ## Consequences of Scanning
 
-- **Infected**: If you’re INFECTED, place a Larva miniature on your Character board if one is not already there. This "INFECTED" Contamination card is **not** removed.
+- **Infected**: If you're INFECTED, place a Larva miniature on your Character board if one is not already there. This "INFECTED" Contamination card is **not** removed.
 - **Immediate Death**: If there is already a Larva on your Character board, your Character dies – additionally, place 1 Creeper in the Room where you died.
 - **Removal**: If any rule asks you to remove a Contamination card, remove this card from the game.
 

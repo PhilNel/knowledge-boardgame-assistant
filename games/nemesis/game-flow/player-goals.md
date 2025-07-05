@@ -12,4 +12,4 @@ To consider a player a winner, they must meet 2 conditions:
    [1] Hibernate their Character in the Hibernatorium with the ship still functioning and jumping to Earth.
    [2] use one of the Escape Pods to evacuate the ship.
 
-**Important**: Some Objective cards may ask a Character to change the ship’s destination – for instance, the ship must be redirected to Mars instead of going back to Earth.
+**Important**: Some Objective cards may ask a Character to change the ship's destination – for instance, the ship must be redirected to Mars instead of going back to Earth.

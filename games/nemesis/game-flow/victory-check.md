@@ -15,7 +15,7 @@ If the ship survived up to this moment, its Engines are checked. Reveal all the 
 
 If the ship survived up to this moment, reveal the Coordinates card and check the current space of the Destination marker. If the ship is not headed toward Earth, all Characters asleep in the Hibernatorium die.
 
-The Quarantine Objective, which requires another destination for the jump (Mars), is the only exception to this rule. Any Character with this Objective does not die if they are asleep in the Hibernatorium and the ship’s destination is Mars.
+The Quarantine Objective, which requires another destination for the jump (Mars), is the only exception to this rule. Any Character with this Objective does not die if they are asleep in the Hibernatorium and the ship's destination is Mars.
 
 **Important**: Instant death due to a destination other than Earth does not apply to the Intruders! In this case, although the Characters die, the ship is not destroyed.
 
@@ -25,7 +25,7 @@ Each alive Character (either asleep in the Hibernatorium or evacuated in an Esca
 A. The player Scans all the Contamination cards in their Action deck, discard pile and hand.
 B. If there is at least 1 “INFECTED” card, that player shuffles all their cards (both Action and Contamination) to create a new Action deck, then draws the 4 top cards. If there is at least 1 Contamination card (Infected or not), the Character dies.
 
-If there is a Larva on the Character’s Board, the player skips step A and resolves step B.
+If there is a Larva on the Character's Board, the player skips step A and resolves step B.
 
 ## Objective Check
 

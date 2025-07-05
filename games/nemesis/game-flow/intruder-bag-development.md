@@ -17,7 +17,7 @@ After an Intruder token is drawn from the Intruder bag, the effect should be res
   - **Return** the Adult Intruder token to the Intruder bag.
 - **Breeder:**
   - All players roll for **Noise** in order.
-  - If a player’s Character is in Combat with an Intruder, this player **does not perform** a Noise roll.
+  - If a player's Character is in Combat with an Intruder, this player **does not perform** a Noise roll.
   - **Return** the Breeder Intruder token to the Intruder bag.
 - **Queen:**
   - If there are any Characters in the **Nest Room**, place the Queen miniature in that Room and resolve an Encounter.
