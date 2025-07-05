@@ -6,7 +6,7 @@ Related Systems: Objectives, Heavy Objects, Rooms
 This section details the contents of the Corporate Objective cards and provides some insight into these Objectives.
 
 ## Discover a Weakness
-Weaknesses can be discovered by bringing an Object to the Laboratory and by performing the **Laboratory Room Action** there. For accomplishing an Objective, it doesn’t matter if you’re not the one who did the research, as long as the Weakness has been discovered at the end of the game.
+Weaknesses can be discovered by bringing an Object to the Laboratory and by performing the **Laboratory Room Action** there. For accomplishing an Objective, it doesn't matter if you're not the one who did the research, as long as the Weakness has been discovered at the end of the game.
 
 **Key Clarifications**: 
 - Intruder Eggs can be found in the Nest. 

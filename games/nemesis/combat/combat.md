@@ -24,8 +24,8 @@ To perform a Shoot Action:
       - **Blank**: You miss your target.
       - **Creeper**: If your target is a Larva or Creeper, deal 1 Injury to your target. If not, you miss.
       - **Adult**: If your target is a Larva, Creeper or Adult Intruder, deal 1 Injury to your target. If not, you miss.
-      - **1 "crosshair"**: Deal 1 Injury to your target (regardless of the Intruder’s type).
-      - **2 "crosshairs"**: Deal 2 Injury to your target (regardless of the Intruder’s type).
+      - **1 "crosshair"**: Deal 1 Injury to your target (regardless of the Intruder's type).
+      - **2 "crosshairs"**: Deal 2 Injury to your target (regardless of the Intruder's type).
 
 **Important**: Some Weapons have special rules that may modify the Shooting Action. For example, the **Prototype Pistol** allows rerolling Combat Rolls.
 
@@ -40,8 +40,8 @@ To perform a Melee Attack Action:
      - **Blank**: You miss your target and your Character suffers **1 Serious Wound**.
      - **Creeper**: If your target is a Larva or Creeper, deal 1 Injury to your target. If not, you miss and your Character suffers **1 Serious Wound**.
      - **Adult**: If your target is a Larva, Creeper or Adult Intruder, deal 1 Injury to your target. If not, you miss and your Character suffers **1 Serious Wound**.
-     - **1 "crosshair"**: Deal 1 Injury to your target (regardless of the Intruder’s type).
-     - **2 "crosshairs"**: Deal 1 Injury (yes, only 1!) to your target (regardless of the Intruder’s type).
+     - **1 "crosshair"**: Deal 1 Injury to your target (regardless of the Intruder's type).
+     - **2 "crosshairs"**: Deal 1 Injury (yes, only 1!) to your target (regardless of the Intruder's type).
 
 ## Character Escape
 
