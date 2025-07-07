@@ -5,6 +5,10 @@ Related Systems: Wounds, Intruders, Exploration, Movement
 
 Combat in Nemesis occurs whenever a Character and an Intruder are present in the same Room.
 
+## Dealing Damage / Injuries to Intruders
+
+**Combat attacks are the primary way to deal damage to Intruders in Nemesis.** Characters can use Weapons (Shoot action) or Melee Attack actions to inflict Injuries on Intruders. These injuries are the key to killing Intruders - accumulate enough Injuries on an Intruder and it may die during the Injury Effect Check.
+
 ## Being in Combat
 
 Whenever both a Character and an Intruder are in the same Room, they are considered to be in Combat.
