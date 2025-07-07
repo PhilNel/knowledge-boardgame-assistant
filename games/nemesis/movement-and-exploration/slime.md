@@ -16,8 +16,8 @@ As long as the Character has a Slime marker on their Character board, each "Sile
 Characters can gain Slime markers through several methods:
 
 - **Room Covered with Slime**: Automatically receive a Slime marker upon entering this particular room
-- **Intruder attacks**: Some Intruder Attack cards can inflict Slime markers
-- **Exploration tokens**: Slime exploration tokens place a Slime marker on your Character board
+- **Intruder Attacks**: Some Intruder Attack cards can inflict Slime markers
+- **Exploration Tokens**: Slime exploration tokens place a Slime marker on your Character board
 
 ## Limitations
 
@@ -29,14 +29,3 @@ Characters can remove Slime markers through:
 
 - **Clothes Item card**: Found in both Medical (Green) and Technical (Yellow) Item Decks, allows you to "Discard Slime"
 - **Shower Room Action**: The "Take a Shower" action in the Shower Room removes the Slime marker. This action also allows you to scan all Contamination cards in your hand and remove all non-Infected cards.
-
-## Examples
-
-- If you roll for Noise and get "Silence" while having a Slime marker, treat it as "Danger" instead
-- The "Room covered with Slime" automatically gives you a Slime marker when you enter
-
-## Related Rules
-
-- See Noise rules for "Danger" result effects
-- See Shower Room for removal action details
-- See Clothes Item card for alternative removal method

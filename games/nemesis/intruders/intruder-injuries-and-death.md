@@ -5,6 +5,16 @@ Related Systems: Combat, Fire
 
 In Nemesis, Intruder Injuries and Death are determined through a specific process involving Injury markers, Intruder Attack cards, and the Combat die.
 
+## How to Kill Intruders
+
+**This is the primary method for killing any Intruder in Nemesis.** Whether you're dealing with Larvae, Creepers, Adults, Breeders, or the Queen, all Intruders are eliminated through the injury system described below.
+
+The key steps are:
+
+1. Deal injuries to the Intruder (through combat, fire, or other means)
+2. Place Injury markers on the Intruder's base
+3. Perform the Injury Effect Check to determine if the Intruder dies
+
 ## Injury Effect Check
 
 When any Intruder suffers Injuries (for example as a result of a successful Character attack or from Fire), place the corresponding number of Injury markers on its base.
@@ -12,14 +22,14 @@ When any Intruder suffers Injuries (for example as a result of a successful Char
 
 As soon as the Injury markers have been placed, perform the **Injury Effect Check**:
 
-- **Larva and Egg**:
+- **Larvae and Eggs**:
   - 1 Injury is enough to kill them. Remove their miniature / token from the board.
-- **Creeper or Adult Intruder**:
+- **Creepers or Adults**:
   – Draw 1 Intruder Attack card.
-  - Ignore everything on this card except the “blood” icon in the upper left corner of the card. 
+  - Ignore everything on this card except the “blood” icon in the upper left corner of the card.
   - If the number in the “blood” icon of the card is **equal to or lower** than the current number of Injury markers on this Intruder, it is **killed**.
   - If the number in the "blood" icon is **higher**, the Intruder is still **alive**.
-- **Breeder or Queen**:
+- **Breeders or Queen**:
   - Draw 2 Intruder Attack cards.
   - Ignore everything on these cards except the "blood" icon in the upper left corner of each card.
   - Add the values of their "blood" icons.
