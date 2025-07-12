@@ -26,13 +26,13 @@ As soon as the Injury markers have been placed, perform the **Injury Effect Chec
   - 1 Injury is enough to kill them. Remove their miniature / token from the board.
 - **Creepers or Adults**:
   – Draw 1 Intruder Attack card.
-  - Ignore everything on this card except the “blood” icon in the upper left corner of the card.
+    - Ignore everything on this card except the “blood” icon in the upper left corner of the card.
   - If the number in the “blood” icon of the card is **equal to or lower** than the current number of Injury markers on this Intruder, it is **killed**.
   - If the number in the "blood" icon is **higher**, the Intruder is still **alive**.
 - **Breeders or Queen**:
   - Draw 2 Intruder Attack cards.
-  - Ignore everything on these cards except the "blood" icon in the upper left corner of each card.
-  - Add the values of their "blood" icons.
+    - Ignore everything on these cards except the "blood" icon in the upper left corner of each card.
+    - Add the values of their "blood" icons.
   - If the total value of the "blood" icons of the two cards is **equal to or lower** than the current number of Injury markers on this Intruder, it is **killed**.
   - If the total value of the "blood" icons of the two cards is **higher**, the Intruder is still **alive**.
 
