@@ -48,19 +48,19 @@ All rules must include citations using our structured reference format with doub
 
 We will be using the Nemesis game as an example of how the citations work.
 
-## Source Types:
+### Source Types:
 
 - R1 - Official Nemesis Rulebook
 - R2 - Official FAQ/Errata
 - BGG1 - BoardGameGeek community discussion if no official rule can be used to answer directly
 
-## Examples:
+### Examples:
 
 - Movement rule: [[R1-BASIC-ACTION]] (Rulebook section on basic actions)
 - FAQ clarification: [[R2-MOVEMENT]] (Official FAQ about movement)
 - Community resolution: [[BGG1-MOVEMENT]] (BGG thread resolving ambiguity)
 
-## Why citations matter:
+### Why citations matter:
 
 - Enables AI systems to provide source references in answers
 - Allows verification of rule interpretations
