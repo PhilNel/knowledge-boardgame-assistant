@@ -18,11 +18,7 @@ Thanks for helping build the best board game rules resource! Here's how to contr
 
 ## Suggested File Structure
 
-Look at the `nemesis/` folder for examples, but generally include:
-
-- `README.md` - Overview of what's documented
-- `core-mechanics.md` - Basic game flow and actions
-- `clarifications.md` - FAQ and edge cases
+Look at the `nemesis/` folder for examples, but generally include a folder for each mechanic of your game. For example, the Nemesis rules include specific sections on how to setup the game and victory conditions.
 
 **Note**: Every game is different! Use whatever structure makes sense for your game.
 
@@ -44,21 +40,21 @@ Look at the `nemesis/` folder for examples, but generally include:
 
 All rules must include citations using our structured reference format with double square brackets:
 
-**Format**: [[SOURCE-IDENTIFIER]]
+**Format**: `[[SOURCE-IDENTIFIER]]`
 
 We will be using the Nemesis game as an example of how the citations work.
 
 ### Source Types:
 
-- R1 - Official Nemesis Rulebook
-- R2 - Official FAQ/Errata
-- BGG1 - BoardGameGeek community discussion if no official rule can be used to answer directly
+- **R1** - Official Nemesis Rulebook
+- **R2** - Official FAQ/Errata
+- **BGG1** - BoardGameGeek community discussion if no official rule can be used to answer directly
 
 ### Examples:
 
-- Movement rule: [[R1-BASIC-ACTION]] (Rulebook section on basic actions)
-- FAQ clarification: [[R2-MOVEMENT]] (Official FAQ about movement)
-- Community resolution: [[BGG1-MOVEMENT]] (BGG thread resolving ambiguity)
+- **Movement rule**: `[[R1-BASIC-ACTION]]` - Rulebook section on basic actions
+- **FAQ clarification**: `[[R2-MOVEMENT]]` - Official FAQ about movement
+- **Community resolution**: `[[BGG1-MOVEMENT]]` - BGG thread resolving ambiguity
 
 ### Why citations matter:
 
