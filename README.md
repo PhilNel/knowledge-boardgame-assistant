@@ -2,19 +2,19 @@
 
 A community-driven, open-source repository of structured board game rules in markdown format. This knowledge base is designed to power AI assistants that can provide accurate rule clarifications during gameplay.
 
-## 🎯 Project Goals
+## Project Goals
 
 - **Structured Knowledge**: Break down complex board game rules into easily digestible, AI-processable markdown files
 - **Community Driven**: Open-source repository where gamers can contribute and improve rule documentation
 - **AI-Ready**: Optimized format for AI systems to understand and answer rules questions
 - **Comprehensive**: Cover edge cases, clarifications, and character-specific rules
 
-## 📚 Current Games
+## Current Games
 
 - **Nemesis** - Complete implementation (in progress)
 - More games coming soon!
 
-## 🚀 Getting Started
+## Getting Started
 
 ### For Contributors
 1. Read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
@@ -22,7 +22,7 @@ A community-driven, open-source repository of structured board game rules in mar
 3. Create a new game folder or improve existing content
 4. Submit a pull request
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 board-game-rules-knowledge/
@@ -32,7 +32,7 @@ board-game-rules-knowledge/
 ├── tools/                   # Development and validation tools
 ```
 
-## 🛠️ Development Tools
+## Development Tools
 
 ### Recommended VS Code Extensions
 - **Markdown All in One** - Enhanced markdown editing
@@ -42,7 +42,7 @@ board-game-rules-knowledge/
 ### Validation Tools
 - `tools/validate.js` - Markdown validation script (Node.js)
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on:
 - Adding new games
@@ -50,21 +50,17 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for deta
 - Formatting standards
 - Review process
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🔗 Related Projects
+## Related Repositories
 
-- **Go Board Game Assistant** - Lambda function for AI rule processing
-- **Infrastructure** - AWS deployment and S3 sync tools
+- [`go-boardgame-assistant`](https://github.com/PhilNel/go-boardgame-assistant) - Collection of Lambdas used to process the knowledge base and provide an API to the Board Game Assistant project.
 
-## 📞 Support
+- [`infra-boardgame-assistant`](https://github.com/PhilNel/infra-boardgame-assistant) - Terraform configuration for deploying the infrastructure and managing Lambda permissions, S3 buckets, etc.
 
-- Create an issue for rule clarifications or bugs
-- Submit pull requests for improvements
-- Join our community discussions
+- [`pulumi-boardgame-assistant`](https://github.com/PhilNel/pulumi-boardgame-assistant) - Pulumi repository for adding references/citations used by by knowledge base.
 
----
+- [`vue-boardgame-assistant`](https://github.com/PhilNel/vue-boardgame-assistant) - The frontend Vue website that is used to interact with the Board Game Assistant functionality.
 
-*Building the future of AI-powered board game assistance, one rule at a time.* 
