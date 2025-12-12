@@ -3,9 +3,9 @@
 Category: Game Flow - Escape Pods Usage
 Related Systems: Actions, Passing
 
-This section covers how to enter, launch, and exit Escape Pods during gameplay.
+This section covers how to enter, launch, and exit Escape Pods during gameplay [[R1-ESCAPE-POD]].
 
-## Entering an Escape Pod
+## Entering an Escape Pod [[R1-ESCAPE-POD]]
 
 To enter an Escape Pod, a Character must be in the corresponding Evacuation Section Room (A or B):
 
@@ -14,9 +14,9 @@ To enter an Escape Pod, a Character must be in the corresponding Evacuation Sect
 - **Noise Roll**: The Character must perform a Noise roll when attempting to enter.
   - If any Intruder appears in the room as a result of this roll, the attempt to enter fails.
   - If no Intruder appears, the Character's miniature is placed in an available space within the Unlocked Escape Pod.
-- **Note**: Heavy Objects carried by the Character do not occupy any space within the Escape Pod.
+- **Note**: Heavy Objects carried by the Character do not occupy any space within the Escape Pod [[R1-ESCAPE-POD]].
 
-## Launching an Escape Pod
+## Launching an Escape Pod [[R1-ESCAPE-POD]]
 
 After entering, a Character can decide to launch the Escape Pod immediately or wait:
 
@@ -26,7 +26,7 @@ After entering, a Character can decide to launch the Escape Pod immediately or w
   - The Character no longer actively participates in the game and can only spectate.
   - A Character in a launched Escape Pod is considered to have arrived on Earth.
 
-## Exiting an Escape Pod
+## Exiting an Escape Pod [[R1-ESCAPE-POD]]
 
 - A Character can **voluntarily** exit an Escape Pod during their round without using an action. To do so, they simply place their miniature back into the corresponding Evacuation Section Room.
 - If an **Intruder appears** in the Evacuation Section Room while characters are waiting in an Escape Pod, all characters in that pod are automatically returned to the Evacuation Section Room.

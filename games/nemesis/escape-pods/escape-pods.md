@@ -5,7 +5,7 @@ Related Systems: Actions, Passing
 
 Escape Pods are crucial elements in Nemesis, serving as one of the primary ways for Characters to survive and potentially win the game.
 
-## Game Setup
+## Game Setup [[R1-GAME-SETUP,6]]
 
 - At the start of the game, a specific number of Escape Pod tokens are chosen based on the player count:
   - 2 for 1-2 players
@@ -15,16 +15,16 @@ Escape Pods are crucial elements in Nemesis, serving as one of the primary ways 
 - All Escape Pod tokens begin the game in a **"Locked" status**, displayed face up.
 - Escape Pods have a limited capacity of 2 Characters per pod.
 
-## Unlocking Escape Pods
+## Unlocking Escape Pods [[R1-ESCAPE-POD]]
 
 There are various ways to unlock Escape Pods:
 
-- **Critical Gameplay Moments**: All Escape Pods automatically unlock in two critical game moments:
+- **Critical Gameplay Moments [[R1-CRITICAL-GAME-MOMENTS]]**: All Escape Pods automatically unlock in two critical game moments:
   - When the **first Character dies** in the game.
   - When the Self-Destruct Track marker reaches any yellow space. Once automatically unlocked, they can still be locked again normally.
-- **Hatch Control System Room Action**: Flip 1 Escape Pod token to its Locked or Unlocked side.
+- **Hatch Control System Room Action [[R1-ROOMS,25]]**: Flip 1 Escape Pod token to its Locked or Unlocked side.
   - **Warning**: This room is an Additional Room "2" so it is not always present on the board.
-- **Military (Red) Deck Evacuation Key**: If you are in an Evacuation Section Room, Lock or Unlock 1 of the Escape Pods in this Evacuation Section.
+- **Military (Red) Deck Evacuation Key [[ITM1-RED]]**: If you are in an Evacuation Section Room, Lock or Unlock 1 of the Escape Pods in this Evacuation Section.
   - **Note**: This Item can be found in the Military Items (Red) Deck.
-- **Pilot's Evacuation Key**: If you are in the Evacuation Section Room, Lock or Unlock 1 of the Escape Pods in this Evacuation Section.
+- **Pilot's Evacuation Key [[PIL2]]**: If you are in the Evacuation Section Room, Lock or Unlock 1 of the Escape Pods in this Evacuation Section.
   - **Note**: This is one of the Pilot's Quest Items which requires 1 Action card and discarding of Energy Charge to activate. One Use Only, Out of Combat Only.

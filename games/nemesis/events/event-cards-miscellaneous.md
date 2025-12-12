@@ -3,7 +3,7 @@
 Category: Events - Event Cards Miscellaneous
 Related Systems: Event Phase, Noise, Doors, Escape Pods, Slime
 
-**Total Cards: 20**
+**Total Cards: 20** [[EVT1]]
 **Other Type Cards: 4**
 
 The following Events relating to various game effects (e.g. Noise) can occur during the **Resolve Event Card** step of the **Event Phase**:
