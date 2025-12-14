@@ -3,7 +3,7 @@
 Category: Game Flow - Intruder Bag Development
 Related Systems: Intruders, Noise, Combat
 
-Intruder Bag Development is a crucial step in the **Event Phase** of each game turn, specifically step 8. It involves drawing a token from the Intruder bag, and the effect depends on the type of token drawn.
+Intruder Bag Development is a crucial step in the **Event Phase** of each game turn, specifically step 8. It involves drawing a token from the Intruder bag, and the effect depends on the type of token drawn [[R1-INTRUDER-BAG-DEVELOPMENT]].
 
 After an Intruder token is drawn from the Intruder bag, the effect should be resolved as follows:
 
