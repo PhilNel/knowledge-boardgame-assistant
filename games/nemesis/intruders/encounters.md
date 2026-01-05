@@ -5,16 +5,16 @@ Related Systems: Fire, Slime, Rooms, Noise
 
 Encounters in Nemesis represent a direct confrontation with an Intruder appearing in a room where a Character is present.
 
-## Triggers for an Encounter
+## Triggers for an Encounter [[R1-ENCOUNTER]]
 
 An Encounter is triggered in a few specific scenarios:
 
 - **Noise Roll**: The most common way an Encounter occurs is during a Noise roll. If you are instructed to place a Noise marker in a corridor that already contains one, an Encounter is resolved instead. This happens when a Character moves into an empty room and fails their Noise roll in a corridor that already has a Noise marker.
 - **Intruder Bag Development**: When an Intruder token is drawn from the Intruder bag during the Intruder Bag Development phase, and certain conditions are met (e.g., a Queen token is drawn and Characters are in the Nest Room).
-- **Event Cards**: Encounters can also be triggered by the effects of some Event cards (such as "Hatching") or certain Intruder Attack cards.
-- **Note**: An Intruder moving from one Room to another Room containing a Character does not count as an Encounter.
+- **Event Cards**: Encounters can also be triggered by the effects of some Event cards (such as "Hatching" [[EVT1]]) or certain Intruder Attack cards.
+- **Note**: An Intruder moving from one Room to another Room containing a Character does not count as an Encounter [[R1-ENCOUNTER]].
 
-## Resolving an Encounter
+## Resolving an Encounter [[R1-ENCOUNTER]]
 
 To resolve an Encounter follow the steps listed below:
 
@@ -26,7 +26,7 @@ To resolve an Encounter follow the steps listed below:
    - If the number of cards is **equal to or higher**, nothing further happens in this step.
 5. **Set Aside Intruder Token**: The drawn Intruder token is set aside. It may return to the Intruder bag if an Intruder of that type later moves into the Technical Corridors during Intruder Movement.
 
-### Blank Token during Encounter
+### Blank Token during Encounter [[R1-ENCOUNTER]]
 
 If you draw a Blank token from the Intruder bag during an Encounter:
 

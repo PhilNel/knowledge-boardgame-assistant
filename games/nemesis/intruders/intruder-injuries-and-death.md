@@ -15,7 +15,7 @@ The key steps are:
 2. Place Injury markers on the Intruder's base
 3. Perform the Injury Effect Check to determine if the Intruder dies
 
-## Injury Effect Check
+## Injury Effect Check [[R1-INTRUDER-INJURIES]]
 
 When any Intruder suffers Injuries (for example as a result of a successful Character attack or from Fire), place the corresponding number of Injury markers on its base.
 **Note**: "Five Injuries" tokens are available to help track injuries on larger Intruders like the Queen or Breeders
@@ -36,15 +36,15 @@ As soon as the Injury markers have been placed, perform the **Injury Effect Chec
   - If the total value of the "blood" icons of the two cards is **equal to or lower** than the current number of Injury markers on this Intruder, it is **killed**.
   - If the total value of the "blood" icons of the two cards is **higher**, the Intruder is still **alive**.
 
-**Note**: This "blood" icon represents the Intruder's current "endurance," which can vary for individual Intruders, depending on the cards drawn after each successful attack.
+**Note [[R1-INTRUDER-INJURIES]]**: The "blood" icon represents the Intruder's current "endurance," which can vary for individual Intruders, depending on the cards drawn after each successful attack.
 
-## Intruder Corpse Token
+## Intruder Carcass Token [[R1-INTRUDER-INJURIES]]
 
 When an Intruder is killed, its miniature is removed, and an Intruder Carcass token is placed in the Room where it was slain. This token represents an Intruder Carcass Object
 
-**Important**: No Intruder Corpse token is placed after killing a Larva or destroying an Intruder Egg.
+**Important**: No Intruder Carcass token is placed after killing a Larva or destroying an Intruder Egg.
 
-## Intruder Retreat
+## Intruder Retreat [[R1-INTRUDER-INJURIES]]
 
 During the Injury Effect check, Intruders may also flee:
 
