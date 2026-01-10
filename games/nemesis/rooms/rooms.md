@@ -5,23 +5,23 @@ Related Systems: Hibernatorium, Coordinates, Cockpit, Search, Malfunction, Fire,
 
 Nemesis features a variety of rooms that serve different purposes and interact with gameplay mechanics in unique ways. Rooms are connected by Corridors, and while characters and Intruders can move through corridors, they cannot stop in them. Effects of moving through a corridor are resolved only after entering the room.
 
-## Basic Rooms "1"
+## Basic Rooms "1" [[R1-ROOMS,24]]
 
 All the 11 Basic Rooms, indicated by the number “1” on their back, are present in each game.
 
-## Additional Rooms "2"
+## Additional Rooms "2" [[R1-ROOMS,25]]
 
 Each game, only 5 randomly chosen Additional Rooms are used, out of the 9 available. These Rooms are indicated by the number “2” on their back
 
-## Room Actions
+## Room Actions [[R1-ROOMS,24]]
 
 To perform any Room Action, a Character must be in the corresponding Room (unless they possesses a special ability clearly saying otherwise). You cannot perform a Room Action when you are in Combat. You cannot perform a Room Action in a Room with a Malfunction marker.
 
-## Rooms with a Computer
+## Rooms with a Computer [[R1-ROOMS,24]]
 
 Some Rooms have a Computer icon, meaning that there is a Computer in that Room. A Computer icon has no significance except when some rule refers to it (some Action cards, Item cards or Event cards). If there is a Malfunction marker in the Room, the Computer is unavailable – as if there was no Computer Icon.
 
-## Special Rooms
+## Special Rooms [[R1-ROOMS,26]]
 
 The 5 Special Rooms always occupy the same place on the board – these Rooms have their own specific shapes and are printed on the board. All are treated as explored at the start of the game.
 

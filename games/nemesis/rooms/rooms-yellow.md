@@ -5,19 +5,19 @@ Related Systems: Signal, Self Destruct, Rooms, Engines
 
 Rooms with yellow colored backgrounds on their action area (ship systems and control).
 
-## Comms Room
+## Comms Room [[R1-ROOMS,24]]
 
 Basic Room "1"
 
 Enables characters to Send a Signal by placing a Status marker on their character board. This is a requirement for some objectives and is always present on the board.
 
-## Fire Control System
+## Fire Control System [[R1-ROOMS,24]]
 
 Basic Room "1"
 
 Enables characters to Initiate the Fire Control procedure, allowing them to choose any room, discard a Fire marker from it (if present), and make all Intruders in that room run away. This can be used even without a Fire marker just to clear Intruders.
 
-## Generator
+## Generator [[R1-ROOMS,24]]
 
 Basic Room "1"
 
@@ -27,7 +27,7 @@ This room allows characters to Initiate / Stop Self-Destruct Sequence.
 - **Critical Points**: When the marker reaches any yellow space on the track, the Self-Destruct Sequence cannot be aborted, and all Escape Pods automatically unlock. If the marker reaches the final red "skull" space, the ship explodes, killing all characters and Intruders on board.
 - **Restriction**: Cannot start the Self-Destruct if any characters are already hibernating.
 
-## Airlock Control
+## Airlock Control [[R1-ROOMS,25]]
 
 Additional Room "2"
 
@@ -35,7 +35,7 @@ Allows starting an Emergency Airlock procedure in another chosen Yellow Room (ro
 
 - **Effect**: Automatically closes all doors connected to the chosen room. If all doors remain closed at the end of the current Player Phase, everything in that room dies immediately, and any Fire marker is removed.
 
-## Engine Control Room
+## Engine Control Room [[R1-ROOMS,25]]
 
 Additional Room "2"
 

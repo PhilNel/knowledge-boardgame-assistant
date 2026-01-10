@@ -2,7 +2,7 @@
 
 Rooms with grey colored backgrounds on their action area.
 
-## Evacuation Section A / Evacuation Section B
+## Evacuation Section A / Evacuation Section B [[R1-ROOMS,24]]
 
 Basic Room "1"
 
@@ -11,19 +11,19 @@ These rooms allow characters to Try to enter an Escape Pod.
 - **Procedure**: This action can only be performed if an Escape Pod in the corresponding section is Unlocked and has at least one empty space. A Noise roll is performed, and if no Intruder appears, the character enters the pod.
 - **Restriction**: Characters cannot enter an Escape Pod if any Intruder is present in the Evacuation Section Room.
 
-## Cabins
+## Cabins [[R1-ROOMS,25]]
 
 Additional Room "2"
 
 Offers a passive benefit to Catch a breath; if a character starts a new turn in this room without Intruders, they draw 1 additional Action card (up to 6 instead of 5). This passive feature does not work if a Malfunction token is in the room.
 
-## Hatch Control System
+## Hatch Control System [[R1-ROOMS,25]]
 
 Additional Room "2"
 
 Flip 1 Escape Pod token to its Locked or Unlocked side.
 
-## Shower Room
+## Shower Room [[R1-ROOMS,25]]
 
 Additional Room "2"
 
