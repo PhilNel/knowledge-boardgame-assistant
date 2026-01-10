@@ -27,7 +27,7 @@ To build a Crafted Item, you must perform a Craft Item Basic Action and discard 
 
 - A Crafted Item **cannot** be built if its card is not available, even if you have the required blue components.
 
-# Crafted Items (Blue Deck)
+# Crafted Items (Blue Deck) [[ITM1-BLUE]]
 
 **Total Cards: 12**
 

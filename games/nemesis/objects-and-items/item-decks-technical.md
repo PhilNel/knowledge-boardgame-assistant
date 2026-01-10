@@ -5,7 +5,7 @@ Related Systems: Searching, Crafting, Inventory, Combat, Heavy Items, Technical 
 
 The Technical Item Deck is one of the four categories of Item Decks in Nemesis, primarily focused on tools and equipment for ship maintenance, repairs, and specific movement abilities.
 
-**Total Cards: 30**
+**Total Cards: 30** [[ITM1-YELLOW]]
 
 - **Chemicals** - 7 cards
   - Fully load Ammo in a Flamethrower

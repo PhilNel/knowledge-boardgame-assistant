@@ -5,7 +5,7 @@ Related Systems: Coordinates, Victory, Objectives, Cockpit
 
 The Coordinates system in Nemesis is crucial for determining the ship's final destination, which directly impacts the survival and victory conditions for characters who choose to hibernate.
 
-## Setup
+## Setup [[R1-GAME-SETUP,6]]
 
 - During game setup, Coordinates cards are shuffled (without looking at their fronts) and one is placed randomly, face down, on its designated space next to the Cockpit.
 - A Status marker is placed on the "B" space on the Destination Track. This is the Destination marker.
@@ -13,9 +13,9 @@ The Coordinates system in Nemesis is crucial for determining the ship's final de
 
 ## Interaction
 
-Located in the bow section, the Cockpit Room allows control a Character to **Check Coordinates** and **Set Destination** as two separate Room Action.
+Located in the bow section, the Cockpit Room allows control a Character to **Check Coordinates** and **Set Destination** as two separate Room Action [[R1-ROOMS,26]].
 
-# Coordinates Deck
+# Coordinates Deck [[COORD1]]
 
 **Total Cards: 8**
 

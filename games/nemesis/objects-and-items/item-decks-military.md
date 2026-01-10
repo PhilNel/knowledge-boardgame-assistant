@@ -5,7 +5,7 @@ Related Systems: Searching, Crafting, Inventory, Weapons, Heavy Items, Intruder 
 
 The Military Item Deck, also known as the Red Item Deck, is one of the four distinct categories of Item Decks in Nemesis. These items are primarily focused on combat, destruction, and strategic control over ship systems.
 
-**Total Cards: 30**
+**Total Cards: 30** [[ITM1-RED]]
 
 - **Energy Charge**: 11 cards
   - Fully load ammo in one Energy Weapon

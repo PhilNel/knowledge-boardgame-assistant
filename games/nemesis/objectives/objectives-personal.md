@@ -5,7 +5,7 @@ Related Systems: Objectives, Cockpit, Coordinates, Heavy Objects, Rooms
 
 This section details the contents of the Personal Objective cards and provides some insight into these Objectives.
 
-## The Ship Must Teach Earth / Mars
+## The Ship Must Reach Earth / Mars [[R1-OBJECTIVES]]
 
 The ship will reach its destination if the right Coordinates have been set in the Cockpit and if at least two of its three Engines are still functional (Working status).
 
@@ -15,15 +15,15 @@ The ship will reach its destination if the right Coordinates have been set in th
 - Check the Coordinates card to see which destinations correspond to positions A, B, C, D
 - Engine status can be checked on the Ship Status board
 
-## Destroy the Nest
+## Destroy the Nest [[R1-OBJECTIVES]]
 
 The Nest is destroyed when there are no Intruder Eggs left in it or the ship explodes. To destroy Eggs, check the Nest description on the Room sheet.
 
 **Key Clarifications**:
 
-- The Nest is always on the board.
+- The Nest is always on the board [[R1-OBJECTIVES]].
 
-## Personal Objective Cards
+## Personal Objective Cards [[OBJ-PERSONAL]]
 
 **Total Cards: 9**
 
