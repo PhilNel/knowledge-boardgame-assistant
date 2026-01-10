@@ -5,7 +5,7 @@ Related Systems: Movement, Fire, Slime, Rooms, Noise
 
 Exploration tokens are a key element of revealing the ship's layout and immediate hazards in Nemesis. They are placed **face-down** on each Room tile during game setup.
 
-## When They Are Revealed
+## When They Are Revealed [[R1-EXPLORATION-TOKENS,14]]
 
 When a Character performs a Movement Action and enters an unexplored Room (face-down Room tile and Exploration token), the Room tile is turned face-up first.
 **Immediately after**, the Exploration Token lying on that Room tile is revealed (turned **face-up**).
@@ -14,11 +14,11 @@ When a Character performs a Movement Action and enters an unexplored Room (face-
 
 ## Resolution Steps
 
-1. **Set Up the Amount of Items in a Room**: The front side of each Exploration token displays a number. After revealing the token, the Room tile is rotated so that this number faces the Item Counter symbol on the board. This number indicates the exact amount of Items that can be obtained from this Room through a Search Action. This step does not apply to the Nest or Rooms Covered in Slime.
+1. **Set Up the Amount of Items in a Room [[R1-EXPLORATION-TOKENS,14]]**: The front side of each Exploration token displays a number. After revealing the token, the Room tile is rotated so that this number faces the Item Counter symbol on the board. This number indicates the exact amount of Items that can be obtained from this Room. 
+    **Note: [[R1-EXPLORATION-TOKENS,14]]** You do not set the amount of Items in the Nest or the a Room Covered In Slime Rooms.
 2. **Resolve Special Effect**: The Exploration token also displays a special effect symbol. This effect is resolved immediately.
-   **Note**: After an Exploration token is fully resolved, it is removed from the game.
 
-## Types of Special Effects
+## Types of Special Effects [[R1-EXPLORATION-TOKENS,15]]
 
 - **Silence**:
   - Nothing happens.
@@ -36,10 +36,9 @@ When a Character performs a Movement Action and enters an unexplored Room (face-
   - A Malfunction marker is placed in the Room.
 - **Doors**:
   - A Door token is placed in the Corridor by which the Character **entered** that Room.
-  - **Important**: If this effect occurs when moving through Technical Corridors (via certain action or item cards), you ignore the token's effect because the direction cannot be determined.
 
 ## Important Interactions
 
-- If a Character uses **Careful Movement** or the **Reconnaissance** Action card and reveals an Exploration token with a Danger / Silence result, the careful movement/reconnaissance rule takes precedence and **cancels out** the Noise roll and Danger / Silence effects.
-- When Intruders move into unexplored Rooms (e.g., due to an Event card), the Room tile and its Exploration token are **not revealed**.
-- Special Rooms (Hibernatorium, Cockpit, and Engines) are treated as **already explored** at the start of the game, so they **do not** have Exploration tokens.
+- If a Character uses **Careful Movement** or the **Reconnaissance** Action card and reveals an Exploration token with a Danger / Silence result, the Careful Movement/Reconnaissance rule takes precedence and **cancels out** the Noise roll and Danger / Silence effects [[SCO1]] [[FAQ1-ACTIONS]].
+- When Intruders move into unexplored Rooms (e.g., due to an Event card), the Room tile and its Exploration token are **not revealed** [[R1-INTRUDER-MOVEMENT]].
+- Special Rooms (Hibernatorium, Cockpit, and Engines) are treated as **already explored** at the start of the game, so they **do not** have Exploration tokens .

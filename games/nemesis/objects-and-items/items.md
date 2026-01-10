@@ -5,7 +5,7 @@ Related Systems: Searching, Crafting, Inventory, Combat, Heavy Objects
 
 In Nemesis, Items are crucial for Character survival and objective completion, providing various abilities, weapons, and tools.
 
-## Example Item Card
+## Example Item Card [[R1-OBJECTS-AND-ITEMS]]
 
 - **Blue Component Icon**: This icon is located in the upper left corner of the card. This means that this card can be used during a Craft Action as a a component.
 - **Out of Combat Only Icon**: This icon is located in the upper right corner of the card. It indicated if this item can only be used in Combat (white weapon icon), our of Combat (white wespon icon with red cross through it) or anytime (no icon present).
@@ -14,7 +14,7 @@ In Nemesis, Items are crucial for Character survival and objective completion, p
 - **Action Effect**: Describes the different effects of the Item Action. For example, an Energy Charge can be used to fully load Ammo in one Energy Weapon or open / close 1 Door in any Corridor connected to the Room you are in.
 - **OR**: This indicates that you must choose one of several possible Item Actions.
 
-## Item Acquisition
+## Item Acquisition [[R1-OBJECTS-AND-ITEMS]]
 
 Items can be obtained in a few different ways:
 

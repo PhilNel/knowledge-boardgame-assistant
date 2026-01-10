@@ -5,13 +5,13 @@ Related Systems: Objectives, Hibernatorium, Escape Pods, Coordinates, Cockpit, S
 
 If at least one Character has survived (either hibernating or having evacuated via an Escape Pod) when the game ends, a Victory Check is performed:
 
-## Engines Check
+## Engines Check [[R1-VICTORY-CHECK]]
 
 If the ship survived up to this moment, its Engines are checked. Reveal all the top Engine tokens of the three Engines. If 2 or 3 of the top Engine tokens have a Damaged status, the ship explodes and all the hibernating Characters die. Everything else on board also dies, including all the Intruders (this may be important for some Objectives).
 
 **Note**: If the Engine has a Working status, a Malfunction marker does not affect this status.
 
-## Coordinates Check
+## Coordinates Check [[R1-VICTORY-CHECK]]
 
 If the ship survived up to this moment, reveal the Coordinates card and check the current space of the Destination marker. If the ship is not headed toward Earth, all Characters asleep in the Hibernatorium die.
 
@@ -19,7 +19,7 @@ The **Quarantine** Objective, which requires another destination for the jump (M
 
 **Important**: Instant death due to a destination other than Earth does not apply to the Intruders! In this case, although the Characters die, the ship is not destroyed.
 
-## Contamination Check
+## Contamination Check [[R1-VICTORY-CHECK]]
 
 Each alive Character (either asleep in the Hibernatorium or evacuated in an Escape Pod) checks their Contamination cards.
 
@@ -42,6 +42,6 @@ Each alive Character (either asleep in the Hibernatorium or evacuated in an Esca
 - If a Larva miniature is already on the Character's board at the very beginning of the Contamination Check, the player skips Step A entirely.
 - Instead, they directly proceed to resolve Step B, meaning they immediately shuffle all cards, draw 4, and die if any contamination card is present.
 
-## Objective Check
+## Objective Check [[R1-VICTORY-CHECK]]
 
 Each player whose Character is still alive at this step must check if they accomplished their chosen Objective. They reveal their Objective card to the other players and check if they have met all its requirements.

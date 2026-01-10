@@ -3,7 +3,7 @@
 Category: Events - Event Cards Fire and Malfunction
 Related Systems: Event Phase, Fire, Hibernatorium, Malfunction, Self-Destruct, Generator Room
 
-**Total Cards: 20**
+**Total Cards: 20** [[EVT1]]
 **Fire / Malfunction Related Cards: 8**
 
 The following Events relating to **Fire** and **Malfunction** can occur during the **Resolve Event Card** step of the **Event Phase**:

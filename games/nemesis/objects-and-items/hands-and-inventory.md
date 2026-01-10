@@ -11,21 +11,21 @@ All normal Items **may be kept secret** from the other players – put them in y
 
 ## Heavy Items and Objects
 
-**Heavy Items** (as Weapons) are indicated by the Hand icon. Examples include the Prototype Pistol and the Fire Extinguisher. Heavy Items can never be kept secret from the other players and cannot be put in the Inventory.
+**Heavy Items [[R1-INVENTORY]]** (as Weapons) are indicated by the Hand icon. Examples include the Prototype Pistol [[ITEM1-RED]] and the Fire Extinguisher [[ITM1-YELLOW]]. Heavy Items can never be kept secret from the other players and cannot be put in the Inventory.
 
-**Heavy Objects** are not cards but tokens that can be carried. These include:
+**Heavy Objects [[R1-INVENTORY]]** are not cards but tokens that can be carried. These include:
 
 - **Intruder Eggs**: They are found in the Nest Room.
 - **Character Corpse**: This is the Character Corpse token, representing either a dead Character or the body found in the Hibernatorium at the start of the game.
 - **Intruder Carcass**: A Carcass token is placed after the death of any Intruder – with the exception of Larvae.
 
-## Hands
+## Hands [[R1-INVENTORY]]
 
 When you find / gain a Heavy Item (or pick up a Heavy Object) you want to keep, it must be placed in one of the two Hand slots (located at the bottom of the Character board) of the Character, meaning that a Character may carry up to 2 Heavy Items / Objects.
 
 If both of the Character's Hand slots are already taken and you want to take another Heavy Item / Object, you must Drop 1 of the carried Heavy Items / Objects.
 
-## Dropping Items
+## Dropping Items [[R1-INVENTORY]]
 
 A Character may freely Drop any Item / Object from their Hands / Inventory any time during their turn without using an Action.
 
@@ -33,7 +33,7 @@ When dropping, **Objects remain** in the Room where they are dropped, while **It
 
 ## Specific Rules
 
-- When any Item card is used it must be shown to all the other players.
-- There is no limit to the number of normal Items that can be placed in your Inventory, only **Heavy Items / Objects**.
-- Sometimes, you can Add an Item card to another Item card (like the Extended Magazine or the Autoloader). It means that the added item is placed next to the indicated Item card. From now on, both cards are treated as one.
-- **Duct Tape Item Card**: This Item from the Technical Items (Yellow Deck) deck allows you to combine 2 Heavy Items, so they take up only 1 Hand slot – but it **does not** apply to Objects!
+- When any Item card is used it must be shown to all the other players [[R1-INVENTORY]].
+- There is no limit to the number of normal Items that can be placed in your Inventory, only **Heavy Items / Objects** [[R1-INVENTORY]].
+- Sometimes, you can Add an Item card to another Item card (like the Extended Magazine or the Autoloader). It means that the added item is placed next to the indicated Item card. From now on, both cards are treated as one [[R1-INVENTORY]].
+- **Duct Tape Item Card**: This Item from the Technical Items (Yellow Deck) deck allows you to combine 2 Heavy Items, so they take up only 1 Hand slot – but it **does not** apply to Objects [[R1-INVENTORY]]!

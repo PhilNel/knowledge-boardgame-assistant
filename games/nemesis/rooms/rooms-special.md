@@ -9,7 +9,9 @@ The five special rooms are:
 2. The three Engine Rooms
 3. The Hibernatorium
 
-## Cockpit
+**Important: [[R1-ROOMS,26]]** Special Rooms are treated as normal Rooms, except that they are explored at the beginning of the game and that Characters cannot perform any Search Action in these Rooms. They can receive Fire or Malfunction markers normally.
+
+## Cockpit [[R1-ROOMS,26]]
 
 Located in the bow section, this room allows control over the ship's navigation.
 
@@ -22,7 +24,7 @@ Located in the bow section, this room allows control over the ship's navigation.
 
 The player should remember the Coordinates they've checked. At the end of the game, if the ship was not destroyed earlier, the Coordinates card is revealed. The position of the Destination marker indicates the destination of the ship among the four available on the Coordinates card.
 
-## Engine Rooms
+## Engine Rooms [[R1-ROOMS,26]]
 
 The ship has 3 Engines, two of which must be functional to safely reach a destination. At the start of the game, the players don't know which Engine is functional or not. Players may check the Status of a given Engine during the game – for example in its corresponding Engine Room. At the end of the game, if the ship was not destroyed earlier, all the top Engine tokens are revealed to determine if the ship explodes or not during its attempt at a hyperspace jump.
 
@@ -37,11 +39,11 @@ Your Character can perform a Repair/Break Engine Action in this Room. This actio
 **Important Notes:**
 
 - This action requires specific cards (e.g., Repairs Action card or Tools Item card).
-- This can be performed even if there is a Malfunction marker in the room. Malfunction markers in Engine Rooms do not affect the engine's functional status.
+- This can be performed even if there is a Malfunction marker in the room. Malfunction markers in Engine Rooms do not affect the engine's functional status [[R1-ROOMS,26]].
 
-You do not have to tell the truth if you have repaired the Engine or not, but you must tell if you have changed the order of the tokens.
+You do not have to tell the truth if you have repaired the Engine or not, but you must tell if you have changed the order of the tokens [[R1-ROOMS,26]].
 
-## Hibernatorium
+## Hibernatorium [[R1-ROOMS,26]]
 
 Located at the very center of the ship, this room allows characters to Try to hibernate.
 

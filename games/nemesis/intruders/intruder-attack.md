@@ -5,11 +5,11 @@ Related Systems: Combat, Wounds, Contamination, Movement, Larva
 
 Intruder attacks in Nemesis occur in three primary scenarios:
 
-- **Surprise Attack**: This happens during an Encounter if the Character who triggered it has fewer cards in their hand (Action and Contamination cards) than the number on the drawn Intruder token.
-- **Intruder Attack Step in the Event Phase**: During the Event Phase, any Intruder currently in Combat with a Character will attack.
-- **Character's Escape**: When a Character attempts to escape from Combat by performing a Movement Action to a neighboring room, an Intruder Attack is resolved before they move. If multiple Intruders are in the room, a separate attack is resolved for each.
+- **Surprise Attack [[R1-ENCOUNTER]]**: This happens during an Encounter if the Character who triggered it has fewer cards in their hand (Action and Contamination cards) than the number on the drawn Intruder token.
+- **Intruder Attack Step in the Event Phase [[R1-EVENT-PHASE]]**: During the Event Phase, any Intruder currently in Combat with a Character will attack.
+- **Character's Escape [[R1-CHAR-ESCAPE]]**: When a Character attempts to escape from Combat by performing a Movement Action to a neighboring room, an Intruder Attack is resolved before they move. If multiple Intruders are in the room, a separate attack is resolved for each.
 
-## Attack Resolution
+## Attack Resolution [[R1-INTRUDER-ATTACK]]
 
 Intruder Attacks are resolved as follows:
 
@@ -31,10 +31,11 @@ Intruder Attacks are resolved as follows:
   - After resolving the Intruder Attack card, it is placed in the Intruder discard pile.
   - If the Intruder Attack deck runs out of cards, its discard pile is shuffled to form a new deck.
 
-## Larva Infest
+## Larva Infest [[R1-INTRUDER-ATTACK]]
 
 If the Intruder Attack is performed by a **Larva**, **do not draw** any Intruder Attack cards. Apply the following instead:
 
 - Remove the Larva miniature from the board and place it on the Character board of the target of this attack, on the miniature picture.
 - The targeted player gets 1 Contamination Card.
-- **Note**: This includes Intruder Attacks that occur due to an Escape attempt by a Character.
+- **Note [[R1-CHAR-ESCAPE]] [[BGG1-LARVA-ESCAPE]]**: This includes Intruder Attacks that occur due to an Escape attempt by a Character. Escaping from a Larva will result in immediate infestation unless you use an ability that allows safe disengagement (such as Covering Fire [[SOL1]] or Suppressive Fire [[SCO1]]).
+- **Note [[FAQ1-RULES,2]]**: If a Character is attacked by a Larva and they already have a Larva on their board, the attacking Larva is removed from the game. The Larva on the Character board stays intact. The Character just receives 1 Contamination Card.

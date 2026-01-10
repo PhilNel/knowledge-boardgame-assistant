@@ -3,7 +3,7 @@
 Category: Game Modes - Intruder Player Action Deck
 Related Systems: Intruder Player Mode, Movement, Combat, Noise
 
-**Total Cards: 10**
+**Total Cards: 10** [[INT1]]
 
 ## Pursuit (4 cards)
 

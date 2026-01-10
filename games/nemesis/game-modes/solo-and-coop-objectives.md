@@ -1,6 +1,6 @@
 # Solo/Coop Objective Cards
 
-**Total Cards: 7**
+**Total Cards: 7** [[OBJ-COOP]]
 
 **Clean up Crew**: Send the Signal AND the Nest must have been destroyed OR Send the Signal AND the ship must have been destroyed.
 

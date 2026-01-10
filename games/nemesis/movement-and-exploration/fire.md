@@ -27,7 +27,7 @@ If you are instructed to place a Fire marker and there are no more markers in th
 Fire markers can appear through:
 
 - **Exploration tokens**: "Fire" exploration tokens place Fire markers when rooms are first entered [[R1-MOVEMENT]].
-- **Event cards**: Some events cause fire to spread to neighboring rooms or create malfunctions in already-burning rooms [[R1-FIRE]] [[EVT1]].
+- **Event cards**: Some events cause fire to spread to neighboring rooms or create malfunctions in already-burning rooms [[R1-FIRE]]. For example, the **Damaging Fire** Event card places a Malfunction marker in each Room with a Fire marker and Fire marker in each Room neighboring a Room with a Fire marker [[EVT1]].
 - **Flamethrower**: During combat this Weapon may place Fire markers in the Room the Combat is taking place in [[ITM1-BLUE]].
 - **Molotov Cocktail**: This Crafted Item can be used to place Fire markers in Rooms with Intruders in them [[ITM1-BLUE]].
 

@@ -3,7 +3,7 @@
 Category: Game Flow - Player Goals
 Related Systems: Objectives, Hibernatorium, Escape Pods, Coordinates, Cockpit
 
-A game of Nemesis may result in multiple winners. While the players can (and should, to some degree) cooperate, each player has their own Objective to fulfill. Other players achieving their goals are irrelevant to your own victory.
+A game of Nemesis may result in multiple winners. While the players can (and should, to some degree) cooperate, each player has their own Objective to fulfill. Other players achieving their goals are irrelevant to your own victory [[R1-PLAYER-GOALS]].
 
 To consider a player a winner, they must meet 2 conditions:
 

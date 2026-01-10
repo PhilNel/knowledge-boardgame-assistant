@@ -7,7 +7,7 @@ Rooms with no colored background on their action area.
 
 **Important:** A Malfunction marker can never be placed in the Nest or in the Room Covered In Slime.
 
-## Nest
+## Nest [[R1-ROOMS,25]]
 
 Basic Room "1"
 
@@ -18,7 +18,7 @@ This room is always on the board.
 - **Effect**: The Nest is considered destroyed when no Eggs remain, marked by placing an Injury marker on it. Fire markers in the room will destroy uncarried Eggs during the Event Phase.
 - **Restrictions**: Searching is not allowed in this room. Eggs are considered Heavy Objects.
 
-## Room Covered with Slime
+## Room Covered with Slime [[R1-ROOMS,25]]
 
 Additional Room "2"
 

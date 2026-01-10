@@ -3,7 +3,7 @@
 Category: Rooms - Room Types and Ship Layout
 Related Systems: Hibernatorium, Coordinates, Cockpit, Search, Malfunction, Fire, Rooms
 
-## Basic Rooms "1" (Always Present)
+## Basic Rooms "1" (Always Present) [[R1-ROOMS,24]]
 All 11 of these rooms are included in every game:
 
 - **Armory** - Weapon recharging
@@ -18,7 +18,7 @@ All 11 of these rooms are included in every game:
 - **Storage** - Item searching
 - **Surgery** - Contamination removal
 
-## Additional Rooms "2" (Variable)
+## Additional Rooms "2" (Variable) [[R1-ROOMS,25]]
 Only some of these rooms appear in each game, creating different ship layouts:
 
 - **Airlock Control** - "Emergency Airlock procedure"

@@ -7,16 +7,16 @@ Character movement in Nemesis is a fundamental aspect of gameplay, allowing char
 
 ## Character Movement
 
-- **Basic Movement Action**:
+- **Basic Movement Action [[R1-MOVEMENT]]**:
   - The most common way to move is by performing a Movement Action.
   - This action involves moving your Character miniature to a **neighboring Room**.
   - To perform a Basic Movement Action, you must discard 1 Action card from your hand to pay its cost.
-- **Neighboring Rooms**:
+- **Neighboring Rooms  [[R1-MOVEMENT]]**:
   - Two rooms are considered neighboring if they are **directly connected** by 1 Corridor.
   - Closed Doors **block** the "neighboring" status for character movement, preventing passage through that corridor.
   - Doors can be Open, Closed, or Destroyed, and various game elements can change their status.
 
-## Rooms and Corridors
+## Rooms and Corridors [[R1-ROOMS-AND-CORRIDORS]]
 
 - **Rooms**: Character miniatures may be placed and perform Actions **only in Rooms** (keep in mind that Special Rooms, such as the Hibernatorium, Engines or Cockpit are treated as normal Rooms).
 - **Escape Pods**: Escape Pod tokens are the only exception to the rule above.
@@ -24,7 +24,7 @@ Character movement in Nemesis is a fundamental aspect of gameplay, allowing char
 - **Corridors**: These **connect** the Rooms, and are used to move between Rooms, though neither Characters nor Intruders can ever stop in them for any reason.
 - **Effects**: The effects of moving through any given Corridor are resolved **after** moving into the Room.
 
-## Entering a Room
+## Entering a Room [[R1-MOVEMENT]]
 
 After entering a Room, always resolve the following steps:
 

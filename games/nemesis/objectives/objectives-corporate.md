@@ -5,7 +5,7 @@ Related Systems: Objectives, Heavy Objects, Rooms
 
 This section details the contents of the Corporate Objective cards and provides some insight into these Objectives.
 
-## Discover a Weakness
+## Discover a Weakness [[R1-OBJECTIVES]]
 Weaknesses can be discovered by bringing an Object to the Laboratory and by performing the **Laboratory Room Action** there. For accomplishing an Objective, it doesn't matter if you're not the one who did the research, as long as the Weakness has been discovered at the end of the game.
 
 **Key Clarifications**: 
@@ -13,17 +13,17 @@ Weaknesses can be discovered by bringing an Object to the Laboratory and by perf
 - The Nest is always on the board.
 - Objects that can be researched include: Character Corpses, Intruder Carcasses, or Intruder Eggs.
 
-## Player X's Character Cannot Survive
+## Player X's Character Cannot Survive [[R1-OBJECTIVES]]
 This means that the Character of the indicated player cannot be alive at the end of the game. You do not need to kill them with any of your Actions - they simply must be dead. 
 
 **Key Clarifications**: 
 - If the indicated player number matches your own player number, then you must achieve "Your Character is the only survivor" instead.
-- Although you cannot kill Characters directly, you can create dangerous situations: lock them in a Room with a Fire marker or an Intruder, or sabotage the ship extensively before escaping in an Escape Pod.
+- Although you cannot kill Characters directly, you can create dangerous situations: lock them in a Room with a Fire marker or an Intruder, or sabotage the ship extensively before escaping in an Escape Pod [[R1-OBJECTIVES]].
 
 ## Your Character is the only survivor
 No Character but yours may survive the game.
 
-## Corporate Objective Cards
+## Corporate Objective Cards [[OBJ-CORPORATE]]
 
 **Total Cards: 9**
 

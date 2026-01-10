@@ -3,7 +3,7 @@
 Category: Events - Event Cards Intruders
 Related Systems: Event Phase, Intruders, Encounters, Intruder Eggs
 
-**Total Cards: 20**
+**Total Cards: 20** [[EVT1]]
 **Intruder Related Cards: 8**
 
 The following Events relating to **Intruders** can occur during the **Resolve Event Card** step of the **Event Phase**:
@@ -28,7 +28,7 @@ The following Events relating to **Intruders** can occur during the **Resolve Ev
 
 - **Eclosion** | Creepers, Breeders, Queen → 1
 
-  - Each Character with a Larva on their Character board dies (place a Creep in their Room). Every Character draws 4 cards from their deck and Scans all drawn Contamination cards. If they have **at least** 1 INFECTED card, put a Larva on their Character board. Discard drawn cards.
+  - Each Character with a Larva on their Character board dies (place a Creeper in their Room). Every Character draws 4 cards from their deck and Scans all drawn Contamination cards. If they have **at least** 1 INFECTED card, put a Larva on their Character board. Discard drawn cards.
 
 - **Egg Protection** | Breeders, Queen → 3
 

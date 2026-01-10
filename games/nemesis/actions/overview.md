@@ -12,7 +12,14 @@ There are four main groups of Actions:
 - **Basic Actions**: Each Character has the same set of Basic Actions. These Actions are always available for each Character, as long as they meet their conditions [[R1-BASIC]].
   - **Examples**: Movement, Careful Movement, Shoot
 - **Actions from Action Cards**: Each Character has its own, partially unique set of 10 Action cards representing the Actions which can be performed by this Character [[R1-CARD-ACTION]].
-  - **Examples**: Search, Rest, Demolition
+  - **Common Action Cards**: Every Character's deck includes the following Action Cards:
+    - **Demolition** (Cost: 0) - Destroy doors or place malfunctions
+    - **Interruption** (Cost: 0) - Cancel another player's action
+    - **Rest** (Cost: 0) - Scan Contamination cards
+    - **Search** (Cost: 0, **2 copies**) - Draw and choose Item cards
+    - **Repairs** (Cost varies) - Remove malfunctions or repair/break engines. The name and cost vary by character: "Basic Repairs" (Cost: 2) for Captain/Soldier, "Repairs" (Cost: 1) for Medic/Pilot, "Fast Repairs" (Cost: 0) for Mechanic.
+  - **Unique Action Cards**: The remaining 4 cards in each Character's deck are unique to that Character.
+  - **Examples**: Search, Rest, Demolition (common); Motivation, Piloting, Full Auto (unique)
 - **Actions from Item Cards**: Some Item cards allow a Character to perform specific Actions [[R1-ITEM-ACTION]].
   - **Examples**: Bandages, Cloth, Energy Charge
 - **Actions from Room Tiles (Room Actions)**: Most of the Rooms allow a Character to perform a specific Action [[R1-ROOM-ACTION]].
@@ -25,6 +32,7 @@ Every Action has an associated Action Cost, indicated by a number in its Action 
 **Examples**:
 
 - **"Search"**: This Action card has a printed cost of 0. This means only that Action card needs to be discarded in order to perform the Search Action.
+**Important [[R1-ROOMS,26]]**: Characters cannot perform any Search Action in Special Rooms.
 - **Captain's "Basic Repairs"**: This Action card has a printed cost of 2. This means that both the "Basic Repairs" card and **two additional** Action cards must be discarded in order to perform this Action [[CAP1]].
 
 - **Contamination Cards**: It's crucial to note that Contamination cards, although part of your Action deck and hand, are not Action cards and **cannot be discarded to pay** any Action Cost. They represent character exhaustion or worse [[R1-CONTAMINATION]].
