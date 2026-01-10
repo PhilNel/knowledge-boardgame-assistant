@@ -12,7 +12,7 @@ In Nemesis, Doors represent barriers that regulate movement between Rooms on the
 - **Destroyed Doors**: These are marked by a lying Door token. Once a Door is Destroyed, movement is allowed through that Corridor, but it can never be Closed again [[R1-DOORS]]. The only exception to this is the Plasma Torch Item, which can affect Destroyed Doors [[MECH1]].
 
 ## Door Placement
-Door tokens can be placed in a Corridor due to Exploration tokens [[R1-MOVEMENT]] being revealed when a Room is first entered. If you are instructed to place a Door token and none are left in the pool, you must take any Door token already on the board and place it in the required Corridor [[R1-DOORS]].
+Door tokens can be placed in a Corridor due to Exploration tokens [[R1-EXPLORATION-TOKENS,15]] being revealed when a Room is first entered. If you are instructed to place a Door token and none are left in the pool, you must take any Door token already on the board and place it in the required Corridor [[R1-DOORS]].
 
 ### Placement Limitations
 - **Token Limit**: Each Corridor may never hold more than 1 Door token [[R1-DOORS]]
@@ -30,5 +30,5 @@ Door tokens can be placed in a Corridor due to Exploration tokens [[R1-MOVEMENT]
 ## Interactions with Other Game Mechanics
 
 - **Movement**: Closed Doors block the "neighboring" status between Rooms, meaning a Character cannot simply move through them [[R1-DOORS]].
-- **Noise Markers**: Door tokens do not affect Noise markers. A Noise marker in a Corridor with a Closed Door still affects the entire Corridor [[R1-NOISE]].
+- **Noise Markers**: Door tokens do not affect Noise markers [[R1-DOORS]]. A Noise marker in a Corridor with a Closed Door still affects the entire Corridor [[R1-NOISE]].
 - **Intruder Encounters**: If a Noise roll causes an Intruder to appear from a Corridor with a Closed Door, the Intruder still appears regardless of the Closed Door [[R1-DOORS]].

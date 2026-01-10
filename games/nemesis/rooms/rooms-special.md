@@ -9,6 +9,8 @@ The five special rooms are:
 2. The three Engine Rooms
 3. The Hibernatorium
 
+**Important: [[R1-ROOMS,26]]** Special Rooms are treated as normal Rooms, except that they are explored at the beginning of the game and that Characters cannot perform any Search Action in these Rooms. They can receive Fire or Malfunction markers normally.
+
 ## Cockpit
 
 Located in the bow section, this room allows control over the ship's navigation.

@@ -17,7 +17,7 @@ Characters can gain Slime markers through several methods:
 
 - **Room Covered with Slime**: Automatically receive a Slime marker upon entering this particular room [[R1-ROOMS,25]]
 - **Intruder Attacks**: Some Intruder Attack cards can inflict Slime markers [[ATK1]]
-- **Exploration Tokens**: Slime exploration tokens place a Slime marker on your Character board [[R1-MOVEMENT]]
+- **Exploration Tokens**: Slime exploration tokens place a Slime marker on your Character board [[R1-EXPLORATION-TOKENS,15]]
 
 ## Limitations
 

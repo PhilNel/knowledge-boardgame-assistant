@@ -32,6 +32,7 @@ Every Action has an associated Action Cost, indicated by a number in its Action 
 **Examples**:
 
 - **"Search"**: This Action card has a printed cost of 0. This means only that Action card needs to be discarded in order to perform the Search Action.
+**Important [[R1-ROOMS,26]]**: Characters cannot perform any Search Action in Special Rooms.
 - **Captain's "Basic Repairs"**: This Action card has a printed cost of 2. This means that both the "Basic Repairs" card and **two additional** Action cards must be discarded in order to perform this Action [[CAP1]].
 
 - **Contamination Cards**: It's crucial to note that Contamination cards, although part of your Action deck and hand, are not Action cards and **cannot be discarded to pay** any Action Cost. They represent character exhaustion or worse [[R1-CONTAMINATION]].
